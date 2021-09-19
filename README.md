@@ -7,5 +7,6 @@ The project contains:
 3D Canvas is implemented with Three.js Library. All data points are shown as spheres and will be colored if the data set is labeled. 
 All spheres are rendered using the Instancing Method, with InstancedMesh class. 
 Raycasting algorithm is implemented to show the original images and gives an additional insight on the processed data.
+
 ![t-SNEDataVisualizer Raycasting](./raycasting.gif)
 
